@@ -4,3 +4,4 @@ A project on Recognition of simple Hand Gestures to control an external Media Pl
 
 To run the program, execute the Alpha.py file. Open up a Media Player (ex. VLC Media Player) and make sure to select it while running the program.
 
+output Screenshot:
